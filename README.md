@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alexandrunite
-- 👀 I’m interested in coding, computer science, A.I., machine learning, cars, and photography.
+- 👀 I’m interested in coding, computer science, A.I., machine learning, algorithms, and photography.
 - 🌱 I’m currently learning artificial intelligence and complex algorithms.
 - 💞️ I’m looking to collaborate on artificial intelligence and automatisation.
 - 📫 How to reach me alexnite628@gmail.com/alexnite728@gmail.com
